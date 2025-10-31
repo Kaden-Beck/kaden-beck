@@ -6,6 +6,8 @@
 
 ### 🛠️ Tech Stack & Tools
 
+![RoadMap.sh](https://roadmap.sh/u/kadenbeck)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
