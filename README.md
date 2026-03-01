@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm **Kaden Beck**
+# Hi there, I'm **Kaden Beck**
 
 > **Software Development** student at **BYU-Idaho**, eager to build web & cloud applications. I’m actively looking for **internship opportunities** where I can contribute, learn, and grow with a forward-thinking team.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
@@ -23,21 +23,19 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
----
 
-### 🎓 Education
 
-* **B.S. in Software Development** — Brigham Young University - Idaho
-* **B.A. in Humanities (chemistry minor)** — Brigham Young University - Idaho
+### Education
 
----
+- **B.S. in Software Development** — Brigham Young University - Idaho
+- **B.A. in Humanities (chemistry minor)** — Brigham Young University - Idaho
 
-### 🤝 Get In Touch
+### Get In Touch
 
 | Platform | Link |
 | :--- | :--- |
 | **LinkedIn** | [linkedin.com/in/Kaden-Beck](https://linkedin.com/in/Kaden-Beck) |
 | **Email** | <Kadenb12@gmail.com> |
-|**Discord**|[kaden_beck#0158](https://discordapp.com/users/kaden_beck)|
+| **Discord** |[kaden_beck#0158](https://discordapp.com/users/kaden_beck)|
 
-> *Feel free to open an issue or send a message if you’d like to collaborate or discuss potential internship roles!* 🚀
+> *Feel free to open an issue or send a message if you’d like to collaborate or discuss potential internship roles!* 
