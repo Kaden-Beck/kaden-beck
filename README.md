@@ -4,7 +4,7 @@
 
 ---
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)
@@ -23,14 +23,12 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
-
-
-### Education
+## Education
 
 - **B.S. in Software Development** — Brigham Young University - Idaho
 - **B.A. in Humanities (chemistry minor)** — Brigham Young University - Idaho
 
-### Get In Touch
+## Get In Touch
 
 | Platform | Link |
 | :--- | :--- |
@@ -38,4 +36,8 @@
 | **Email** | <Kadenb12@gmail.com> |
 | **Discord** |[kaden_beck#0158](https://discordapp.com/users/kaden_beck)|
 
-> *Feel free to open an issue or send a message if you’d like to collaborate or discuss potential internship roles!* 
+> *Feel free to open an issue or send a message if you’d like to collaborate or discuss potential internship roles!*
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/b96fa7d7-20e6-46d7-a7d5-5aa339bb3c4d/thumbnail" >
+</p>
