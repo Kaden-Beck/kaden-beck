@@ -1,6 +1,17 @@
 # Hi there, I'm **Kaden Beck**
 
-> **Software Development** student at **BYU-Idaho**, eager to build web & cloud applications. I’m actively looking for **internship opportunities** where I can contribute, learn, and grow with a forward-thinking team.
+> **Software Development** student at **BYU-Idaho**, currently working as a **Software Development Engineer in Test (SDET) Intern at LVT** (May 2026 – Present), building automated test coverage across the stack.
+
+---
+
+## Current Work
+
+- **SDET Intern @ LVT** — May 2026 – Present
+  - Building automated end-to-end tests with **Playwright + TypeScript**
+  - Writing backend test suites with **Python & Pytest**
+  - Testing **GraphQL** APIs
+  - Developing automated CI/CD and regression test pipelines
+  - Covering both front-end and back-end testing
 
 ---
 
@@ -22,6 +33,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+### Testing & QA
+
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=flat)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white&style=flat)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
 
 ## Education
 
