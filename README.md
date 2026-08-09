@@ -1,12 +1,12 @@
 # Hi there, I'm **Kaden Beck**
 
-> **Software Development** student at **BYU-Idaho**, currently working as a **Software Development Engineer in Test (SDET) Intern at LVT** (May 2026 – Present), building automated test coverage across the stack.
+> **Full-Stack Software Engineer** currently employed as a **Software Development Engineer in Test at LVT**, building automated test coverage across the stack.
 
 ---
 
 ## Current Work
 
-- **SDET Intern @ LVT** — May 2026 – Present
+- **SDET I @ LVT** — May 2026 – Present
   - Building automated end-to-end tests with **Playwright + TypeScript**
   - Writing backend test suites with **Python & Pytest**
   - Testing **GraphQL** APIs
